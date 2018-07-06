@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "188375926253",
+    "firebase_url": "https://tappwater-d7ccd.firebaseio.com",
+    "project_id": "tappwater-d7ccd",
+    "storage_bucket": "tappwater-d7ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188375926253:android:39d7f757d14bad6e",
+        "android_client_info": {
+          "package_name": "br.com.bee.tappwater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188375926253-h98ra9jf4ieqa76h17jpeu0gkuj5clvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzwUvtgeh9X5ELWA6OxqhaOes1YeKKDQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
